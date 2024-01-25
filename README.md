@@ -5,9 +5,11 @@ apt update
 
 Paso 2: Instalación Apache2:
 apt install apache2 -y
+![image](https://github.com/vNoxpe/-actividad13_lamp/assets/144890599/01f59611-cdcf-4faf-87cc-7c651744d710)
 Paso 3: Instalación PHP
 apt install php libapache2-mod-php php-mysql -y
-![image](https://github.com/vNoxpe/-actividad13_lamp/assets/144890599/01f59611-cdcf-4faf-87cc-7c651744d710)
+![image](https://github.com/vNoxpe/-actividad13_lamp/assets/144890599/32a5f418-7ca9-4137-a70c-e75fa0a9e37d)
+
 
 Paso 4: Entramos en el directorio /etc/apache2/sites-enabled
 Editamos sitio web por defecto (000-default.conf):
