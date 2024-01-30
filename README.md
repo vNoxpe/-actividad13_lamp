@@ -41,8 +41,7 @@ echo "<?php phpinfo(); ?>" > info.php
 Desde el navegador e incluimos la siguiente URL:
 http://ip_servidor/info.php
 ![image](https://github.com/vNoxpe/-actividad13_lamp/assets/144890599/31ebbc30-ab32-4d88-bb36-deae7d875a3d)
-
-# 2.-Descripción de la instalación de phpMyAdmin.
+## MARIADB
 Paso 1: Actualización repositorios:
 apt update
 Paso 2: Instalación servidor de base de datos y cliente
@@ -62,6 +61,7 @@ MariaDB> exit:
 ![image](https://github.com/vNoxpe/-actividad13_lamp/assets/144890599/118b00aa-66b1-4f04-99e0-fc68bf8d726e)
 
 
+# 2.-Descripción de la instalación de phpMyAdmin.
 
 # 3.-Descripción de la instalación de Adminer.
 
