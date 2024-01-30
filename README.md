@@ -59,7 +59,8 @@ Paso 4: Cambiar la contraseña de root
 MariaDB> ALTER USER ‘root’@’localhost’ identified BY 'usuario@1';
 MariaDB> flush privileges;
 MariaDB> exit:
-![image](https://github.com/vNoxpe/-actividad13_lamp/assets/144890599/621efd21-24be-4477-8878-cf5394ee48b3)
+![image](https://github.com/vNoxpe/-actividad13_lamp/assets/144890599/118b00aa-66b1-4f04-99e0-fc68bf8d726e)
+
 
 
 # 3.-Descripción de la instalación de Adminer.
