@@ -63,6 +63,16 @@ MariaDB> exit:
 
 # 2.-Descripción de la instalación de phpMyAdmin.
 
+Paso 1: Instalación PHPMyAdmin:
+apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl -y
+
+Paso 2: IMPORTANTE!! Durante el proceso de instalación se debe elegir el servidor web: apache2
+
+Paso 3: Confirma que desea utilizar dbconfig-common para configurar la base de datos
+
+Paso 4: Finalmente se solicitará una contraseña para phpMyadmin, por ejemplo, usuario@1
+
+Paso 5: Acceso a PHPMyAdmin: http://ip_host/phpmyadmin/
 # 3.-Descripción de la instalación de Adminer.
 
 # 4.- Mostrar el resultado final:
