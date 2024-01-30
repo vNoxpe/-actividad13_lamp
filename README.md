@@ -79,6 +79,14 @@ Paso 5: Acceso a PHPMyAdmin: http://ip_host/phpmyadmin/
 ![image](https://github.com/vNoxpe/actividad13_lamp/assets/144890599/ee6b6413-3e5b-456a-a6ad-79d739d52919)
 
 # 3.-Descripción de la instalación de Adminer.
+Paso 1: Entramos el la pagina de adminer 
+[adminer]https://www.adminer.org/
+Paso 2: Damos a descargar
+![image](https://github.com/vNoxpe/actividad13_lamp/assets/144890599/46e820d5-4a53-4637-a790-0706df11419b)
+Paso 3: Elegimos esto, y lo copiamos
+![image](https://github.com/vNoxpe/actividad13_lamp/assets/144890599/7394a9b1-a902-4f0a-ae98-2774d6ea5525)
+Paso 4: En la maquina virtual en /var/www/html hacemos esto para descargar el fichero
+![image](https://github.com/vNoxpe/actividad13_lamp/assets/144890599/b8655e75-361a-4b8c-bbbd-2fe11b301cc7)
 
 # 4.- Mostrar el resultado final:
 
