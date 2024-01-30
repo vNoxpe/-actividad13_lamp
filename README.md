@@ -92,6 +92,6 @@ Paso 4: En la maquina virtual en /var/www/html hacemos esto para descargar el fi
 
 - http://ec2-54-173-153-168.compute-1.amazonaws.com
 
-- http://ec2-3-86-45-92.compute-1.amazonaws.com/phpmyadmin
+- http://ec2-3-86-45-92.compute-1.amazonaws.com/info.php
 
-- http://ec2-3-86-45-92.compute-1.amazonaws.com/adminer.php
+- http://ec2-3-86-45-92.compute-1.amazonaws.com/index.php
