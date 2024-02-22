@@ -95,3 +95,6 @@ Paso 4: En la maquina virtual en /var/www/html hacemos esto para descargar el fi
 - http://ec2-3-86-45-92.compute-1.amazonaws.com/info.php
 
 - http://ec2-3-86-45-92.compute-1.amazonaws.com/index.php
+
+# Enlace a repositorio de gihub
+[Activadad13_lamp](https://github.com/vNoxpe/actividad13_lamp)
